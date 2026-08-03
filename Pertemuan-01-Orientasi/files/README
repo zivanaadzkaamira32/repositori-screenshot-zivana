@@ -1,0 +1,30 @@
+# Files
+
+Folder ini digunakan untuk menyimpan seluruh **file hasil praktikum** pada pertemuan ini.
+
+## Yang Disimpan
+
+Simpan file yang berkaitan dengan konfigurasi atau hasil pekerjaan, seperti:
+
+* File konfigurasi (`.conf`)
+* Script (`.sh`, `.py`, `.php`, dan lainnya)
+* File HTML, CSS, JavaScript
+* Dokumen pendukung
+* Diagram jaringan
+* File hasil ekspor konfigurasi
+
+## Aturan
+
+* Gunakan nama file yang jelas dan mudah dipahami.
+* Simpan hanya file yang berkaitan dengan praktikum pada pertemuan ini.
+* Jangan mengunggah file yang berukuran sangat besar, seperti Virtual Machine (`.vdi`, `.vmdk`, `.ova`) atau file ISO (`.iso`).
+
+## Contoh Isi Folder
+
+* `apache2.conf`
+* `sshd_config`
+* `named.conf`
+* `index.html`
+* `topologi-jaringan.drawio`
+* `konfigurasi-dns.pdf`
+

@@ -1,0 +1,24 @@
+# Screenshots
+
+Folder ini digunakan untuk menyimpan bukti visual hasil praktikum pada setiap pertemuan.
+
+## Aturan
+
+* Simpan minimal **3 screenshot** setiap praktikum.
+* Gunakan nama file yang jelas dan berurutan.
+* Pastikan screenshot menampilkan hasil konfigurasi atau pengujian yang berhasil.
+* Hindari mengunggah foto layar menggunakan kamera jika memungkinkan. Gunakan fitur **Screenshot** pada komputer.
+
+## Contoh Penamaan File
+
+* `01-login-debian.png`
+* `02-konfigurasi-ssh.png`
+* `03-hasil-ping.png`
+* `04-browser-test.png`
+
+## Checklist
+
+* [ ] Screenshot proses konfigurasi
+* [ ] Screenshot hasil pengujian
+* [ ] Screenshot jika terjadi error (opsional, untuk dokumentasi troubleshooting)
+
